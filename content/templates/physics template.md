@@ -1,0 +1,3 @@
+---
+banner: "![[physics.jpg]]"
+---

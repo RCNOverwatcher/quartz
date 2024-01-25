@@ -1,0 +1,4 @@
+---
+banner: "![[physics.jpg]]"
+---
+# Questions

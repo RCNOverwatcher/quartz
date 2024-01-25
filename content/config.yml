@@ -1,0 +1,23 @@
+obsidian_entrypoint_path_str: 'HOME.md'
+html_template_path_str: 'assets/template.html'
+exclude_glob:
+  - ".obsidian"
+  - ".git"
+
+site_name: 'School Notes'
+
+toggles:
+  slugify_html_links: True
+  features:
+    breadcrumbs:
+      enabled: True
+file_exports:
+  - encoding: binary
+    src: assets/favicon.ico
+    dst: favicon.ico
+  - encoding: binary
+    src: assets/GeistVariableVF.ttf
+    dst: obs.html/static/Roboto-Regular.ttf
+
+html_custom_inclusions:
+  - <script src="https://gist.githubusercontent.com/RCNOverwatcher/60f709bb47af83e9cec810a2199ac4bd/raw/50672df278597698c8cf8716106835e2dcaa5481/konami.js"></script>
