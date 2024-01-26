@@ -4,7 +4,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "School Notes",
-    enableSPA: true,
+    enableSPA: false,
     enablePopovers: true,
     analytics: null,
     baseUrl: "quartz.rcn.sh",
