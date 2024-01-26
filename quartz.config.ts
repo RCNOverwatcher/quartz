@@ -6,7 +6,7 @@ const config: QuartzConfig = {
     pageTitle: "School Notes",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null
+    analytics: null,
     baseUrl: "quartz.rcn.sh",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
